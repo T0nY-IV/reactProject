@@ -1,0 +1,385 @@
+{
+  "produits": [
+    {
+      "id": "6",
+      "reference": "Sicamtom",
+      "designation": "Sicam DCT 1/2 SICAM",
+      "marque": "Sicam",
+      "prixAchat": 2.3,
+      "prixVente": 2.5,
+      "qtestock": 85,
+      "caracteristiques": "DCT 1/2 SICAM Ref : 6194055500128",
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755130/images/sicamtomate1.jpg.jpg"
+    },
+    {
+      "id": "7",
+      "reference": "thon",
+      "designation": "El Manar Lot de 3 Thon entier Extra - A l'huile d'olive",
+      "marque": "Elmanar",
+      "prixAchat": 8.9,
+      "prixVente": 12.5,
+      "qtestock": 85,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755241/images/elmanarthon.jpg.jpg"
+    },
+    {
+      "id": "8",
+      "reference": "delio",
+      "designation": "Delice Déli'O Menthe - 25Cl",
+      "marque": "Delice",
+      "prixAchat": 0.59,
+      "prixVente": 0.65,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754036/images/delicedelio.jpg.jpg"
+    },
+    {
+      "id": "9",
+      "reference": "Infinix",
+      "designation": "Infinix Smart 5 - 6.6\" - 3 Go - 64 Go - Quetzal Cyan ",
+      "marque": "280",
+      "prixAchat": 300,
+      "prixVente": 349,
+      "qtestock": 25,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754656/images/infinix2.jpg.jpg"
+    },
+    {
+      "id": "10",
+      "reference": "GalaxyA02",
+      "designation": "Samsung Galaxy A02 s - 6.5\" - 4Go - 64Go - Noir",
+      "marque": "Samsung",
+      "prixAchat": 380,
+      "prixVente": 429,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754354/images/samsungGalaxy.jpg.jpg"
+    },
+    {
+      "id": "11",
+      "reference": "TecnoOC",
+      "designation": "Tecno Spark 6 - 6.8\" - 4 Go - 128 Go",
+      "marque": "Tecno",
+      "prixAchat": 370,
+      "prixVente": 469,
+      "qtestock": 80,
+      "imageartpetitf": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTEhIQEBUVFRAVFRUPEA8VFRUQFREYFxUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGisfHiUtLSstLy0rLi0rKy0vLS0uLy0tLS0rKy0tKy0tNy0tLSstLS0tLS0rLS0tLS0rKzctK//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABAUGBwIDCAH/xABMEAABAwIBBQkJDAoCAwAAAAAAAQIDBBEhBQYSMXMHIkFhcpGys9EjJDVRcYGhtMETFjI0QlNUY5KUsfAXJTNSYoOTwtLhgvEUFaP/xAAaAQEAAgMBAAAAAAAAAAAAAAAAAgUBAwQG/8QAMxEBAAICAAMEBgkFAAAAAAAAAAECAxEEMXEFEiEzEyJBYZHBFSMyQlFSobHhYnKB0fD/2gAMAwEAAhEDEQA/AN4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCyplJkDNJ2N8ERNaqTTHcv4zwNXFNNy/YjV34qgYtOoSW5VcqItnpfGzY0/F6pfmObMoKvDInlbF2mmN0LLNQ6uliSeWNkSxtY2OV8ab6Fr1VdHWt1VLr40QweXOCrjcqsqqnSbouRfd5XI3FF3yKtl1oiouGJlHxl6mSZ37zuaPtHurv3l5o+0pcgV6ywRPdgr4onrb+NiOXmuT1UlpDvS75Kxya1f9mLtOhcq7X7EX+RxmbdClyxULHBLImtkcjk8rWKo0x35UudW6symescLVmc1VRyv0Wsa5NbbtRdJU4jHG7tdQq2SKn8+mnOq4GH0VKiuc9yaSo7RbpY2RqYrjwq5XLcmqw68XBTesWmdbLZorOmSSbtNQi29zpl5KvcnOinBd2yo4IYF/qGMSIdL40XBUReJUNn0fP5v0/ln0vuZZ+m2p+Yg/wDofW7ttRwwwJ/UMHXIePwlRqrfQtj9rgJSRIiWaiIniRDXTgbz9qdJekj2Mv8A02VHzVPzSD9NlR81T80piKRXO1YzZ9H/ANX6fyx6RtDNHdbiqJEjnjSFXKjUkY5XM0lWzUddEVt/HqNmoeUqiJEc1yIiKrmsdbhY9yNVF8etF8x6TzLq3S0NNI9buWJmkvjciWVfQcWbDOK3dlOs7XQANSQAAAAAAAAAAAAAGOZZ+NU/Kn6hhkZjmWfjUHKn6hgRtyaVz9pHyZUqmsXRs6JVW9rItPGYBIxUkla7WjVTG2vTbqv59X4XMw3Tat8eVap0btFbxJe9tdNH+fMYXRXV0iqqquiqriuO/brx4+Me1mHpPNp9qam2FP1LTImrdDGc3171p9hT9U0uYKpG/CVGpxrbzE4c6a1Slzui70qF+omv/TXEt2Stdi1yOTiVF5ytzsXvGp2E3QUzLMc2lKBMHbSTpEtyEfJup20k6RMRpdYPKr0hz3+3KI5hOo8mrbTdgmtL+Lxk/IWS/dXK9ydzjxX+J3A32qWVRGr1smolN/YTfXgxmoZfBEOr/wAWxlsWSERLqRKugsQjLDpjHMx4Mc9zOEjcCdLER3sNkWSjHMKqrbg3aQ9c09B7nfg6m2ftU0JlCPeptIOuYb73OvB1Ns/apV8dO8kdP9pxXTIwAcSQAAAAAAAAAAAAAGP5WTviHidN1LTICgrE7szlz9W0I25NTbpe5/XzVr6mkY2dkvublak0UbmPZEkePuioipZNafvKYpSbm2VUfaSnbEiojdJ1RTq1ETx6DlVdXAi6j0dfAj1LLoT019+VHR0/ucbI0W6MYxiL40Y1G39B8q24tX+H06S39FiS9DqfGi6/QZhrc8j/ALT/AIrfyYfnznLOz4lU7CboKdlC1rF8vCuv/Rxzt+JVK/UTdBRLNWlsmpvXbSTpE5dXjXUnlIuSW3R20k6RbZMh054mcGldfNinpRC5xTrFXo0T45J6ssfSJBTxwp8JURz+NzsV9hygpbErKO+qbcCLZPIhJmisaJvqOrGOk3ugyLYr6xEsTKhSDUGna5w49KCpZiQ9As6lpDRp0Vt4Ns08VXldlo02lP17DeO514OpuR7VNKZab3L+ZT+sMN07m/g+Dkp+CHDxXjf/AA580asyYAHK1AAAAAAAAAAAAAAUdT+2by5+qYXhS1LbTt43TLzxMCNuTlG7gCnRp2U73E4aZV9VHZSIqFrUsuhWvQIvjFOrOSS9DU7CboLic0IecLu86nYT9WoZjm1hkBt0dtJekW+RcKpvEjudFv7Crzc+VtJekWFW73Odr01XRedLL7S4x+VHRoifrpj3synS1T51/EtKnUUz50erJE4US/lROyxbMk0kOTLO4iXXwmOaWmtlTUoQJS4qIyumiNcWXVKbhTVLCIjC1qIiGsZui3gnGOVNl1vcv5lP6ww3JuceD4OSn4Iagzhb3FdpTesRm4Nzlv6up+NidnsOTiJ3ZwcXXV46MlABocwAAAAAAAAAAAAAFHVPvOzlTpzRMLwoK7Coj43VHVMCNuTqmXEkQPuhFqNYppLKThplNQr6mOylgp1VTLoZYVTkK/OFe9KjYTdWpZvQq84vitRsZurUwRza2yAtkdtJOkXWVIdKO/i/Ap8gJvXbSXpF0klksuKF1h8uvSHDknWWerpyRlBW71y71Vst/ku4F8hlNBVY2Uwd9mPW+LVwW3i8acaFvS1LmWRy3TDRcmpW8BpzY/bC64bJF9RPNmyM0iLVUpxyXWoqYlq9LoVmS3dW9ImnNi88RBljMirKbxFTPGYjiId+OKyxrOVvcF2lN6zGba3OF/V1PxMTt9pqrOlve67Sm9ZjNq7nCfq6n42J2ewxa8X8VP2pGs0a/D5yyUAEVcAAAAAAAAAAAAABjuV176g5U/UsMiMbyz8ap+VP1DAjbk+VaEZjsSbWNK5VxJtMraJ10OdiJRycH5/PaS1MsK+ojsv585S5yJ3rUbGbq1Mkqo7pcx7OVO9KjYzdWpiSObW2b3wXbSXpFs9LlRkFd47aS9ItNMusPlV6Q4MsfWT1RZYzqhk0V0X30MbKnyf9XJ0rLnRJDdBadc1jwtfSRqOawpal0apdbt8ZldBXoqazX1PUKzeuxbwL+7/oyDJzlTVq4Cu4zF6szD0HB3tePR5GYPRHJgVVZCcqOrJFRih5e3EanTsrWcdtMJzuZanXaUvrMZtHc68HU2z9qmts9W2pnbSl9ajNk7nXg6m5HtUsuEv3qb96s7VneaOnzlkgAOpWgAAAAAAAAAAAAAY3ln41T8qfqGGSGPZXTvmHidN1LAjbk76xuFynlTEvZG3RUKaobiTaJIHlo1boU7FLGkfwGRItcx3OtlqWo2M/QUyIps8Gd51C/UzdWolmObU2QV3rtpL0iwkKvIy7120l6RZo4uMHl16Q5MkevPV2ROwO2NMSPGSI9YyRuHTwdppkiYcZ6JHX4/xPmSZ3Ru0Havkr4uIsmodFbTouJQZOPit5xW/6XtcWKs6tC5Vvy26uEmwSXQrMi1WpHcO9Xyk5WaDrcHAeZ4yfXmYSvH3ZUOfDe9XbSl9ajNibnXg6m5HtU17nyvejtpSetRmwtzrwdTcj+5S37Lt3sMz7/lCi7S82OnzlkgALJXgAAAAAAAAAAAAAUOU293j4nS9Swvilr07uzyy9UwI25PtVLoNV1r2the2tUTX5yDWsxJdW3SjVE14WuqJjdF1nCrbdLk2mVUSaZ9lOiRp9jUIre5VZ2/EanYTdBSxpn3QrM7fiVVsJugplmGoMjrvHbSXpFg1SBkdN47aS9Inohb4PLr0aslfWl3MJcDSNEhOiQxltqHTwuPdtpCajhM7enJ+ojVDt75VPC8ZbvZpn3vc8LX1IcqeSzuUl/wDk3FPRcvpJdJjXeYxi++Z5PYpdUcncrcaHLljcbTz05Src833pXbSl9ajNj7nXg6m5H9ymsM7397OT6yl9ZjNn7nXg6m5HtUtuyfInrP7Q812rGs0dPnLJAAWitAAAAAAAAAAAAAApq39uzyy9UwuSlrl74j8s3VMCNuSPVyuRN7e6qnwbXXBcEu1ycHi4FO5iKrUR2vRS/ltj6SHXrxI7falYsiLgutiYr+V4CZClmt5LdeHB4icNMq2dp0oTqxmJBUIplLJZSPnd8SqdhN0FPsTjrzodegqdhN0FDMc2p8iM7m7aS9IsmREXN1ncl2s3SLhjDurnimON/gsacH39S64oiZEw+MYdpVcb2jEVmtVlw3A6s6pFIc2K28X5UlS+n8CLLgeb33rbeixxp1NW7/Ii/hYtKV1mW47lbAz0k1H2Qlkr6rOWN+Cqzsf3BU+spvWYza+514OpuR/cpp/OV94V2lN6xGbg3OvB1NyP7lLXsyNYZ6/KHmO2Y1nr/bH7yyQAFiqQAAAAAAAAAAAAAKPKC98ReWbqWF4Y5liTRqoON0qfaiRE9LQjbki5VmjY1z5VRGNW6q66onAl7eUso/gpwWw5ihzvpHyU0scbdJzkSyXRL79F1rhwFxA/WThplzqW3Qq5WltfWhXztMouhikfOJ/eVSn1E3QU7iNl1qupZ2prWGZOdi+0wzHNr/Nlvcl2s3TLpjTCcgZxRwPkimujFer2PRFciaSJgqJjbUt8damRpnPR/Ps+zJ2FdxWTLHhES9RweTDOON2iJ98rhEPtioTOej+fZzP7D776aP59n2X9hT3pmtPjWfhLvjPhjlaPjCze0gzNutiM/Oek4J2cz+wjvzipPnm8z+wnjwZOc1n4N1OJxR9+PjCyZgcJJCrfnDS/PN5n9h0vy/TfOt5n9hO2LJafsz8G2OIwfnr8Yfcvu7l/Mp/WGG5tznwdTcj+5Tz/AJVy0yV0cUV3IskSucqKiWa9Fsl8eC9+I9AbnEatybTXwvHpeZzlcnoVC24PHNMep/F5jtXNTLn3Sd6jX7skAB1K0AAAAAAAAAAAAACgzpyI6dGPidoyRrdEVbI5Ndr8C+Jf+0vwBgU1dUtwkgcqprX3OVE50arV8ynKDKr+GF3NL/gZ2DO0O5DCv/bL8y/ml/wPi5Qe74MLl80v+BmwM95j0cNfzVcqa4Hp5pf8AyvkW6e4PVLY4S/B1L8jjNgAxs9HDzZnHmXMj1dDFJIxVXRRkb1cxt76KoqJdE4FQpPelV/R6n7tN2Hq4GE9PKPvTq/o9T92m7B70qv6PU/dpuw9XADyj70az6PVfdZ+w+e9Kr+j1P3absPV4DLyj70qv6PU/dpuwe9Kr+j1P3absPVwA87Zn7mNbNK1ZY300KfCfM1GvVq60Yy+ldUul1trPQlNA1jGsalmtRGoniREsh2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=  "
+    },
+    {
+      "id": "12",
+      "reference": "A12",
+      "designation": "Samsung Galaxy A12 - 6.5\" - 4 Go - 128 Go",
+      "marque": "Samsung",
+      "prixAchat": 543,
+      "prixVente": 555,
+      "qtestock": 123,
+      "imageartpetitf": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "13",
+      "reference": "Techno4",
+      "designation": "Tecno Pop 4 - 6\"- 2Go - 32Go",
+      "marque": "Tecno",
+      "prixAchat": 220,
+      "prixVente": 269,
+      "qtestock": 85,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658751429/images/about.jpg.jpg"
+    },
+    {
+      "id": "14",
+      "reference": "Nokia1",
+      "designation": "Nokia 1.4 - 6.52\" - 2 Go - 32 Go - Charcoal",
+      "marque": "Nokia",
+      "prixAchat": 250,
+      "prixVente": 285,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658749242/images/lenouv.jpg.jpg"
+    },
+    {
+      "id": "15",
+      "reference": "redmi9",
+      "designation": "XIAOMI Redmi 9 - 6.53\" - 4 Go - 64 Go ",
+      "marque": "Xioami",
+      "prixAchat": 440,
+      "prixVente": 600,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658750695/images/xioami.jpg.jpg"
+    },
+    {
+      "id": "16",
+      "reference": "Tablog",
+      "designation": "Logicom La Tab Link 71 - 7\"- 16GB",
+      "marque": "Logicom",
+      "prixAchat": 140,
+      "prixVente": 184,
+      "qtestock": 20,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754595/images/hw2.jpg.jpg"
+    },
+    {
+      "id": "17",
+      "reference": "Lenoouv1",
+      "designation": "Lenovo Tab M7 7.0 - 16GB",
+      "marque": "Lenouv",
+      "prixAchat": 240,
+      "prixVente": 269,
+      "qtestock": 25,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754782/images/lenov3.jpg.jpg"
+    },
+    {
+      "id": "18",
+      "reference": "Huawi1",
+      "designation": "Huawei Tablette - MatePad T",
+      "marque": "Huawei",
+      "prixAchat": 299,
+      "prixVente": 384,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754602/images/hw3.jpg.jpg"
+    },
+    {
+      "id": "19",
+      "reference": "Huawei10",
+      "designation": "Huawei MatePad T - 10",
+      "marque": "Huawei",
+      "prixAchat": 355,
+      "prixVente": 499,
+      "qtestock": 50,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754588/images/hw.jpg.jpg"
+    },
+    {
+      "id": "20",
+      "reference": "HP1",
+      "designation": "Hp PC Portable - 13.3\" - Intel Core™ i5-7200U",
+      "marque": "Hp",
+      "prixAchat": 3800,
+      "prixVente": 4280,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754499/images/HP1.jpg.jpg"
+    },
+    {
+      "id": "21",
+      "reference": "lenov1",
+      "designation": "Lenovo PC Portable ThinkBook - i3 10è Gén-4Go-1To-Gris",
+      "marque": "Lenovo",
+      "prixAchat": 1100,
+      "prixVente": 1299,
+      "qtestock": 20,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754854/images/lenov23.jpg.jpg"
+    },
+    {
+      "id": "22",
+      "reference": "Lenov22",
+      "designation": "Lenovo PC Portable IP330/4000 DualCore/4Go/1To",
+      "marque": "Lenovo",
+      "prixAchat": 840,
+      "prixVente": 899,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754862/images/lenov22.jpg.jpg"
+    },
+    {
+      "id": "23",
+      "reference": "Dell5570",
+      "designation": "DELL PC Inspiron 5570",
+      "marque": "DELL",
+      "prixAchat": 2200,
+      "prixVente": 2470,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754060/images/dell.jpg.jpg"
+    },
+    {
+      "id": "24",
+      "reference": "VersusVBOO",
+      "designation": "Versus Pc portable V-Book - 2 Go",
+      "marque": "Versus",
+      "prixAchat": 300,
+      "prixVente": 469,
+      "qtestock": 50,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755322/images/versus4.jpg.jpg"
+    },
+    {
+      "id": "25",
+      "reference": "HPI3",
+      "designation": "Hp Pc portable I3 11è Gén 8Go",
+      "marque": "Hp",
+      "prixAchat": 1200,
+      "prixVente": 1533,
+      "qtestock": 20,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754517/images/hp4.jpg.jpg"
+    },
+    {
+      "id": "26",
+      "reference": "Dell2C",
+      "designation": "Pc Montage - Core 2 DUO - 4Go - 320Go ",
+      "marque": "DELL",
+      "prixAchat": 488,
+      "prixVente": 599,
+      "qtestock": 25,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1701512866/images/pc-portable-tunisie.jpg.jpg"
+    },
+    {
+      "id": "27",
+      "reference": "Samsung5300",
+      "designation": "Samsung Téléviseur 43\" - Flat Smart Full HD TV",
+      "marque": "Samsung",
+      "prixAchat": 1100,
+      "prixVente": 1399,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754354/images/samsungGalaxy.jpg.jpg"
+    },
+    {
+      "id": "28",
+      "reference": "condor1",
+      "designation": "Condor Smart 43SD520 Android v9.0",
+      "marque": "Condor",
+      "prixAchat": 880,
+      "prixVente": 1090,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755298/images/s11.jpg.jpg"
+    },
+    {
+      "id": "29",
+      "reference": "43E20",
+      "designation": "Telefunken Téléviseur Smart - 43\" ANDROID",
+      "marque": "Telefunken",
+      "prixAchat": 999,
+      "prixVente": 1149,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755263/images/crystal1.jpg.jpg"
+    },
+    {
+      "id": "30",
+      "reference": "E20",
+      "designation": "Telefunken TV 43\" - E20 - LED - Full HD",
+      "marque": "Telefunken",
+      "prixAchat": 890,
+      "prixVente": 1120,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755077/images/hd4.jpg.jpg"
+    },
+    {
+      "id": "31",
+      "reference": "LG1",
+      "designation": "LG TV LG 4K Smart UHD UN73 de 43 pouces",
+      "marque": "1300",
+      "prixAchat": null,
+      "prixVente": 1459,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755109/images/tele2.jpg.jpg"
+    },
+    {
+      "id": "32",
+      "reference": "UA43N5300",
+      "designation": "Samsung Tv - 43\" Full HD Smart N5300",
+      "marque": "1200",
+      "prixAchat": 1100,
+      "prixVente": 1429,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658755035/images/k4.jpg.jpg"
+    },
+    {
+      "id": "33",
+      "reference": "TU7100",
+      "designation": "Samsung TV Crystal UHD 50 pouces ",
+      "marque": "Samsung",
+      "prixAchat": 1900,
+      "prixVente": 2100,
+      "qtestock": 1920,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754888/images/lg1.jpg.jpg"
+    },
+    {
+      "id": "34",
+      "reference": "curved1",
+      "designation": "Samsung Curved TV 65 4K UHD",
+      "marque": "Samsung",
+      "prixAchat": 4200,
+      "prixVente": 5299,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754170/images/f2.jpg.jpg"
+    },
+    {
+      "id": "35",
+      "reference": "Sams55",
+      "designation": "Samsung Téléviseur 55\" LED ULTRA HD 4K Smart tv",
+      "marque": "Samsung",
+      "prixAchat": 2200,
+      "prixVente": 2999,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754015/images/curved2.jpg.jpg"
+    },
+    {
+      "id": "36",
+      "reference": "RU7100",
+      "designation": "Samsung Smart 4K TV UHD - 65\" ",
+      "marque": "Samsung",
+      "prixAchat": 4200,
+      "prixVente": 4399,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658751608/images/condor1.jpg.jpg"
+    },
+    {
+      "id": "37",
+      "reference": "Home 360",
+      "designation": "XIAOMI Caméra de sécurité XIAOMI Home 360",
+      "marque": "XIAOMI",
+      "prixAchat": 100,
+      "prixVente": 119,
+      "qtestock": 20,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658751572/images/cam.jpg.jpg"
+    },
+    {
+      "id": "38",
+      "reference": "pw1",
+      "designation": "Power résistance bands",
+      "marque": "m",
+      "prixAchat": 50,
+      "prixVente": 73,
+      "qtestock": 10,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658749202/images/sport4.jpg.jpg"
+    },
+    {
+      "id": "39",
+      "reference": "flash1",
+      "designation": "Sandisk Flash Disque",
+      "marque": "Sandisk",
+      "prixAchat": 9,
+      "prixVente": 14,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754288/images/flash1.jpg.jpg"
+    },
+    {
+      "id": "40",
+      "reference": "Gym1",
+      "designation": "Iron Gym Barre fixe démontable",
+      "marque": "Iron Gym",
+      "prixAchat": 69,
+      "prixVente": 75,
+      "qtestock": 100,
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658754379/images/gym.jpg.jpg"
+    },
+    {
+      "id": "41",
+      "reference": "bal123",
+      "designation": "Ballon",
+      "marque": "adidas",
+      "prixAchat": "20",
+      "prixVente": "40",
+      "qtestock": "14",
+      "imageartpetitf": "https://res.cloudinary.com/iset-sfax/image/upload/v1658749751/images/ballon1.jpg.jpg"
+    },
+    {
+      "id": "de87",
+      "reference": "nigga",
+      "designation": "yessin nigga",
+      "marque": "nigga de lux",
+      "prixAchat": "0",
+      "prixVente": "5050",
+      "qtestock": "25",
+      "imageartpetitf": "https://afroculinaria.com/wp-content/uploads/2011/10/peanutgather.jpg?w=950"
+    },
+    {
+      "id": "8da6",
+      "reference": "nigga",
+      "designation": "nigga X pro max(buy 2 the 3rd cums free)",
+      "marque": "nigga de lux (kalb 3assa)",
+      "prixAchat": "0",
+      "prixVente": "20000",
+      "qtestock": "800",
+      "imageartpetitf": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTya2zYuAGfS3TpgKDRAYXuv3pqruo01LGgA&s"
+    }
+  ]
+}
