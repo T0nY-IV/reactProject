@@ -5,7 +5,11 @@ import Menu from './Menu';
 import ListCards from './components/clientSide/ListCards';
 import { CartProvider } from "use-shopping-cart";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Cart from "./components/clientSide/Cart"
+import Cart from "./components/clientSide/Cart";
+import PdfCart from "./components/clientSide/PdfCart";
+import Loginclient from './components/authentificationClient/loginClient';
+import Signup from "./components/authentificationClient/Signup"; 
+
 function App() {
   return (
     <>
@@ -19,6 +23,10 @@ function App() {
             <Route path='/editArticle/:id' element={<EditArticle />} />
             <Route path='/' element={<ListCards />} />
             <Route path='/cart' element={<Cart/>}/>
+            <Route path='/pdfCart' element={<PdfCart/>}/>
+            <Route path="/loginclient" exact element={<Loginclient/>}/>
+            <Route path="/signup" exact element={<Signup/>}/>
+            <Route path="/dashboard" element={<Dashboard/>}/>
           </Routes>
         </Router >
       </CartProvider>

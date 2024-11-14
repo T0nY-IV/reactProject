@@ -1,13 +1,17 @@
 import React from 'react';
 import { useShoppingCart } from 'use-shopping-cart';
 import { useNavigate } from 'react-router-dom';
-import Grid from '@mui/material/Grid';
+import Grid from '@mui/material/Grid2';
 import Button from '@mui/material/Button';
 import Plus from '@mui/icons-material/AddAlarm';
 import Minus from '@mui/icons-material/RemoveCircle';
 import Delete from '@mui/icons-material/Delete';
 import StripeCheckout from 'react-stripe-checkout';
 const Cart = () => {
+    const imprimer = () => {
+        navigate('/pdfCart');
+    };
+
     const { cartDetails, removeItem, clearCart, totalPrice,
         cartCount, incrementItem, decrementItem } = useShoppingCart();
 
@@ -37,7 +41,7 @@ const Cart = () => {
         <div>
             {payment ? <StripeCheckout
                 token={onToken}
-                stripeKey="Coller ici votre pk_test"
+                stripeKey="pk_test_51QIS4DG3tsF1HCA6grwzY1ROM517YWgFvllfDbhA13NRp0jxNQS469qE79rtJgThHooya69H5oqWXD7jOXHxKsIu00FRFH8yz5"
                 amount={totalPrice * 100} // Montant en centimes
                 currency="USD" // Devise
             /> : null}
@@ -98,6 +102,9 @@ const Cart = () => {
                         </Button>
                         <Button color="info" variant="outlined" onClick={clear}>
                             Annuler
+                        </Button>
+                        <Button color="secondary" variant="outlined" onClick={imprimer}>
+                            Imprimer PDF
                         </Button>
                     </div>
                 </Grid>
