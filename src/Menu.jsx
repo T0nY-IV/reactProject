@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom"
 import { auth } from "./fireConfig";
 import { onAuthStateChanged } from "firebase/auth";
+import 'bootstrap/dist/css/bootstrap.min.css';
 function Menu() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   onAuthStateChanged(auth, (user) => {

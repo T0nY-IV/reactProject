@@ -3,12 +3,13 @@ import Grid from '@mui/material/Grid2';
 import Chart from './Chart';
 import FeaturedInfo from './featuredInfo/FeaturedInfo';
 import ListUsers from './lisUsers/ListUsers';
+import Sidebar from './Sidebar';
 export default function Dashboard() {
     return (
         <div className="container">
             <Grid container spacing={3}>
                 <Grid size={4}>
-                    menu
+                    <Sidebar/>
                 </Grid>
                 <Grid size={8}>
                     <Grid size={8}>

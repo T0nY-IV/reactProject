@@ -364,7 +364,7 @@
     {
       "id": "de87",
       "reference": "nigga",
-      "designation": "yessin nigga",
+      "designation": "farmer nigga",
       "marque": "nigga de lux",
       "prixAchat": "0",
       "prixVente": "5050",
@@ -380,6 +380,16 @@
       "prixVente": "20000",
       "qtestock": "5",
       "imageartpetitf": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTya2zYuAGfS3TpgKDRAYXuv3pqruo01LGgA&s"
+    },
+    {
+      "id": "ce94",
+      "reference": "nigga",
+      "designation": "dishwasher",
+      "marque": "nigga",
+      "prixAchat": "0",
+      "prixVente": "5000",
+      "qtestock": "200",
+      "imageartpetitf": "https://img.freepik.com/premium-photo/portrait-young-africanamerican-woman-washing-dishes-home-while-doing-chores-weekend-copy-space_236854-28028.jpg"
     }
   ]
 }
