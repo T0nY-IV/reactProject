@@ -13,6 +13,7 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import MailIcon from '@mui/icons-material/Mail';
 import Toolbar from '@mui/material/Toolbar';
+import NavBarComponent from './authentification/Navbar'; 
 const drawerWidth = 240;
 function ResponsiveDrawer(props) {
     const { window } = props;
@@ -70,7 +71,7 @@ function ResponsiveDrawer(props) {
                     ml: { sm: `${drawerWidth}px` },
                 }}
             >
-
+            <NavBarComponent/>
             </AppBar>
             <Box
                 component="nav"
